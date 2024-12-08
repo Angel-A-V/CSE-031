@@ -4,3 +4,6 @@
 [submodule "Lab-2-CSE-031"]
 	path = Lab-2-CSE-031
 	url = https://github.com/Angel-A-V/Lab-2-CSE-031.git
+[submodule "Lab-3-CSE-031"]
+	path = Lab-3-CSE-031
+	url = https://github.com/Angel-A-V/Lab-3-CSE-031.git
